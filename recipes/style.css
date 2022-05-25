@@ -1,0 +1,17 @@
+* {
+    background-color: wheat;
+}
+
+h1,
+h2 {
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: rgb(64, 56, 42);
+}
+
+p {
+    font-weight: 700;
+}
